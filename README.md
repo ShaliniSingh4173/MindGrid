@@ -63,4 +63,4 @@ This creates a unique experience tailored to each user's preferences.
 
 MindGrid is designed to make productivity enjoyable by combining AI, habit tracking, gamification, data visualization, and deep personalization. Rather than simply managing tasks, the platform encourages users to build lasting habits, remain consistent, and achieve their goals through intelligent assistance and engaging visual feedback.                                                                                   
 
-https://lovable.dev/projects/92cad704-874d-4d80-8328-8256168ca3d4?magic_link=mc_aa628a96-e897-4827-b662-f0d25d97f243
+https://mindgridgrowth.lovable.app
